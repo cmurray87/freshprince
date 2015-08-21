@@ -1,0 +1,73 @@
+body{
+	background-color:white;
+}
+.portheader{
+	width:100%;
+	height:100px;
+	margin-top:-10px;
+	font-family: 'Roboto Condensed', sans-serif;
+	padding-left: 20%;
+	color:lightblue;
+	box-shadow: 10px 16px 5px rgba(86, 199, 223, 0.07);
+	border-radius:40px;
+}
+.aboutme{
+	width:100%;
+	height:500px;
+	margin-top:1%;
+	font-family: 'Signika Negative', sans-serif;
+	background-color: #F2FAFC;
+	border-radius:40px;
+	box-shadow: 10px 16px 5px rgba(86, 199, 223, 0.07);
+}
+.about{
+    width: 90%;
+    background-color: white;
+    float: left;
+    height: 100%;
+    margin-left: 5%;
+    border-radius: 40px;
+}
+.aboutme img {
+     width: 70%; 
+    height: 70%;
+    margin-left: 15%;
+}
+
+.firsttwo{
+	width:100%;
+	height:500px;
+	margin-top:1%;
+	font-family: 'Signika Negative', sans-serif;
+	background-color: #F2FAFC;
+	border-radius:40px;
+	box-shadow: 10px 16px 5px rgba(86, 199, 223, 0.07);
+}
+
+h2{
+	margin-left: 10%;
+}
+
+
+
+.karma{
+width:45%;
+background-color:white;
+float:left;
+height:95%;
+margin-left:5%;
+border-radius:40px;
+border-color:4px dotted white;
+}
+.hack{
+width:45%;
+background-color:white;
+float:left;
+height:95%;
+margin-left:5%;
+border-radius:40px;
+border-color:4px dotted white;
+}
+.firsttwo img{
+	width:100%;
+}
